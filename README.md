@@ -1,5 +1,6 @@
 # sdt-diffusion-analysis
 COGS 107 - Final project
+
 This project uses a hierarchical Signal Detection Theory (SDT) model and delta plot-based diffusion model analysis on a 2×2×2 choice response time dataset. The goal is to compare the effects of Trial Difficulty (Easy vs Hard) and Stimulus Type (Simple vs Complex) on participants' performance using both accuracy-based and RT-based models.
 
 Results:
